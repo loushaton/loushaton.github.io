@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loushaton.github.io/sitemap.html.gz
+Sitemap: https://loushaton.github.io/app/sitemap.html.gz
+Sitemap: https://loushaton.github.io/assets/sitemap.html.gz
+Sitemap: https://loushaton.github.io/css/sitemap.html.gz
+Sitemap: https://loushaton.github.io/includes/sitemap.html.gz
+Sitemap: https://loushaton.github.io/item/sitemap.html.gz
+Sitemap: https://loushaton.github.io/src/sitemap.html.gz
